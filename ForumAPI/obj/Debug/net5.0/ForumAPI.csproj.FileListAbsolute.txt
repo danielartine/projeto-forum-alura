@@ -48,3 +48,4 @@ C:\Users\daniel.mastub\source\repos\ForumAPI\ForumAPI\obj\Debug\net5.0\ForumAPI.
 C:\Users\daniel.mastub\source\repos\ForumAPI\ForumAPI\obj\Debug\net5.0\ref\ForumAPI.dll
 C:\Users\daniel.mastub\source\repos\ForumAPI\ForumAPI\obj\Debug\net5.0\ForumAPI.pdb
 C:\Users\daniel.mastub\source\repos\ForumAPI\ForumAPI\obj\Debug\net5.0\ForumAPI.genruntimeconfig.cache
+C:\Users\daniel.mastub\source\repos\ForumAPI\ForumAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll

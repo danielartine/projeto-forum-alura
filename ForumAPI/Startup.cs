@@ -31,7 +31,8 @@ namespace ForumAPI
         {
             services.AddScoped<CursoRepository, CursoRepository>();
             services.AddScoped<TopicoRepository, TopicoRepository>();
-            services.AddDbContext<ForumContext>(opts => opts.UseLazyLoadingProxies().UseMySQL(Configuration.GetConnectionString("ForumConnection")));
+            services.AddDbContext<ForumContext>(opts => opts.UseLazyLoadingProxies().UseInMemoryDatabase("forumdb"));
+            
             services.AddControllers();
             
         }
@@ -39,7 +40,6 @@ namespace ForumAPI
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env, ForumContext dataContext)
         {
-            dataContext.Database.Migrate();
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();

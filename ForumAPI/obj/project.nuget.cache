@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "W6DJyouu6dE4QrFV0tppy8LQH9N6ko1v3ly6JLaiKHx2V+PTrcTQA6qV8qeQac3Te1v3O+FtzO5dsf6qq0m+Kw==",
+  "dgSpecHash": "AomXNHYME5UJckjV13lIR2i42hDaLmypK1X/h3hHRDUzSf3E5pxrNPVESEUsQyBN5xj8EilFY2k/mRYlRIzu0g==",
   "success": true,
   "projectFilePath": "C:\\Users\\daniel.mastub\\source\\repos\\ForumAPI\\ForumAPI\\ForumAPI.csproj",
   "expectedPackageFiles": [
@@ -16,6 +16,7 @@
     "C:\\Users\\daniel.mastub\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.5\\microsoft.entityframeworkcore.abstractions.5.0.5.nupkg.sha512",
     "C:\\Users\\daniel.mastub\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.5\\microsoft.entityframeworkcore.analyzers.5.0.5.nupkg.sha512",
     "C:\\Users\\daniel.mastub\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.5\\microsoft.entityframeworkcore.design.5.0.5.nupkg.sha512",
+    "C:\\Users\\daniel.mastub\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\5.0.5\\microsoft.entityframeworkcore.inmemory.5.0.5.nupkg.sha512",
     "C:\\Users\\daniel.mastub\\.nuget\\packages\\microsoft.entityframeworkcore.proxies\\5.0.5\\microsoft.entityframeworkcore.proxies.5.0.5.nupkg.sha512",
     "C:\\Users\\daniel.mastub\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.5\\microsoft.entityframeworkcore.relational.5.0.5.nupkg.sha512",
     "C:\\Users\\daniel.mastub\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\5.0.5\\microsoft.entityframeworkcore.tools.5.0.5.nupkg.sha512",
